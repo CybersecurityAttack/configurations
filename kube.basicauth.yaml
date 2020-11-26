@@ -1,6 +1,6 @@
 apiVersion: v1
 data:
-  auth: <REDACTED>
+  auth: YWRtaW46Tm9QQCQkd29yZElzu2VjcmV0iQ==
 kind: Secret
 metadata:
   name: basic-auth
