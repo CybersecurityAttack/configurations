@@ -1,6 +1,7 @@
 apiVersion: v1
 data:
   auth: <ZREDAGOWANO>
+Usuwanie poświadczeń
 kind: Secret
 metadata:
   namespace: default
