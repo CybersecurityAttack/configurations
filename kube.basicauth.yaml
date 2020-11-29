@@ -1,6 +1,6 @@
 apiVersion: v1
 data:
-  auth: YWRtaW46Tm9QQCQkd29yZElzu2VjcmV0iQ==
+  auth: <ZREDAGOWANO>
 kind: Secret
 metadata:
   namespace: default
